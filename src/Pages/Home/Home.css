@@ -1,0 +1,7 @@
+.pagination-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 79px;
+  justify-content: center;
+}
